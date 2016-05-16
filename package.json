@@ -1,0 +1,18 @@
+{
+  "name": "assignment2dweb4",
+  "version": "1.2.2",
+  "description": "A college assignment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "request": "~2.72.0"
+  },
+  "keywords": [
+    "assignment2dweb4",
+    "tate"
+  ],
+  "author": "Michael Mahoney",
+  "license": "ISC"
+}
