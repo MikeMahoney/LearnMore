@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LearnMore - Easy way to get information
 
 Methods that return information from Wikipedia based on a search query.
@@ -56,3 +57,8 @@ assignment2.getImages(query, noOfImages, function(images){
 
 });
 ```
+=======
+# LearnMore
+A simple NPM module that return images and information from Wikipedia based on a search query.
+
+>>>>>>> origin/master
